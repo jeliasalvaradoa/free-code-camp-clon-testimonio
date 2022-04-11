@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/free-code-camp-clon-testimonio/static/css/main.3eb9d884.css",
+    "main.js": "/free-code-camp-clon-testimonio/static/js/main.7476cc39.js",
+    "static/media/testimonio-Emma.png": "/free-code-camp-clon-testimonio/static/media/testimonio-Emma.add10415a5668325d2f2.png",
+    "static/media/testimonio-Sarah.png": "/free-code-camp-clon-testimonio/static/media/testimonio-Sarah.2c504d1ebaf1961e4a40.png",
+    "static/media/testimonio-Shawn.png": "/free-code-camp-clon-testimonio/static/media/testimonio-Shawn.0d373888087fb18fc145.png",
+    "index.html": "/free-code-camp-clon-testimonio/index.html",
+    "main.3eb9d884.css.map": "/free-code-camp-clon-testimonio/static/css/main.3eb9d884.css.map",
+    "main.7476cc39.js.map": "/free-code-camp-clon-testimonio/static/js/main.7476cc39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3eb9d884.css",
+    "static/js/main.7476cc39.js"
+  ]
+}
