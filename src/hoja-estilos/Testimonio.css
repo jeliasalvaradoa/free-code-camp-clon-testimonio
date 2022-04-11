@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.flex-container {
+    background-color: #ffffff;
+    margin: 0px 0px 50px !important;
+    box-shadow: 0 3px 13px 1px rgb(0 0 0 / 9%);
+    display: flex;
+    line-height: 25.71px;
+    align-items: center;
+    justify-content: center;
+    flex-flow: row wrap;
+    
+    }
+  /* Caracteristicas Css comunes de los datos del testimonio */
+.contenedor-testimonio {
+    flex-basis: 60%;
+    flex-grow: 7;
+    color: rgb(59, 59, 79);
+    font-size: 21.6px;
+    font-family: Lato, sans-serif;
+    padding: 25px 35px 25px 35px;
+           
+}
+
+.nombre-testimonio {
+    
+    line-height: 27px;
+    text-align: center;
+       
+}
+.cargo-testimonio {
+    margin-top: 15px;
+    padding-bottom: 20px;
+}
+.texto-testimonio {
+    text-align: justify;
+    font-size: 19.8px !important;
+    line-height: 27px;
+
+}

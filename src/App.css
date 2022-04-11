@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html, 
+body {
+  /* font-size: 18px; */
+  background-color: #f5f6f7;
+}
+
+h1 {
+  max-width: 940px;
+  color: rgb(27, 27, 50);
+  font-size: 2.5rem !important;
+  font-family: Lato, sans-serif;
+  font-weight: 700 !important;
+  line-height: 1.1;
+  margin: 40px 0;
+}
+
+
+.App {
+  min-height: 100vh;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  }
+.contenedor-principal {
+  
+  width: 1100px;
+  min-height: 600px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+    
+}
